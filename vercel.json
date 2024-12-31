@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://m.yuejia299.com/index/index/home?visiter_id=&visiter_name=&avatar=&business_id=1&groupid=1&special=33/$1" }
+  ]
+}
